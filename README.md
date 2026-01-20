@@ -52,7 +52,7 @@ A well-structured prompt typically includes:
 
 -**Mood/Atmosphere** (emotional tone)
 
-##🔹 Example 1: Professional Branding Portrait
+## Example 1: Professional Branding Portrait
 
 Prompt Used:
 
@@ -83,7 +83,7 @@ Extra elements: vector portrait + typography = personal brand identity.
 
 
 
-##🔹 Example 2: Corporate Shoot:
+##  Example 2: Corporate Shoot:
 
 
 <img width="300" height="500" alt="ChatGPT Image Jan 20, 2026, 12_07_38 AM" src="https://github.com/user-attachments/assets/78843922-b798-450c-a324-e078584f4b5d" />
