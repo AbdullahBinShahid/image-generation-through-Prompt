@@ -141,3 +141,6 @@ You can tell the AI to include things like company logos, words on top of the im
 Don't try to do everything at once. Start with a simple idea (like "business photo"), then slowly add details about the person's pose, the objects around them, and any text you want to 
 
 see.
+
+
+
