@@ -143,4 +143,112 @@ Don't try to do everything at once. Start with a simple idea (like "business pho
 see.
 
 
+# **VIDEO GENERATION**
+
+AI video generation is the process of creating videos using artificial intelligence. The AI can turn text, images, or ideas into videos automatically without manual filming or editing.
+
+If you write “a cat running in a park” and the computer creates a short video of it, that is called AI video generation.
+
+## Core Principles:
+
+A well-structured prompt typically includes:
+
+Camera Movement/Angle (establishing the shot)
+Subject Description (who/what is in frame)
+Action/Movement (what's happening)
+Environment/Setting (where it takes place)
+Lighting/Atmosphere (mood and visual tone)
+Audio Elements (dialogue, sound effects, ambient)
+Technical Style (film format, color grading)
+Duration Pacing (how action unfolds over time)
+
+**EXAMPLE # 01** (Educational Content)
+
+PROMPT:
+
+Prompt:
+
+Medium shot of enthusiastic teacher at whiteboard explaining complex diagram with animated gestures. Camera holds steady as teacher moves naturally within frame. Modern classroom with soft natural lighting from large windows. "The key concept here is understanding the relationship between these elements," spoken with clarity and passion. Background ambient sound of classroom atmosphere. Clean, documentary style with accurate color reproduction. Educational content aesthetic with clear audio.
+
+💡 Use Case: Perfect for online courses, tutorials, or educational marketing content.
+
+prompt at https://sora.chatgpt.com/
+
+https://sora.chatgpt.com/g/gen_01kfde0e40enxa8d1k3hpa82hj
+
+**EXAMPLE # 02** (product showcase)
+
+Macro lens extreme close-up of sleek smartphone rotating slowly on white seamless background. Camera orbits the device revealing premium materials and precise engineering details. Soft studio lighting with subtle reflections on glass screen. Clean, minimal aesthetic with shallow depth of field. Subtle electronic music building gradually. No dialogue, focus on visual elegance. Color grading emphasizes cool blues and warm metallic tones. Shot with high-end macro lens, crystal clear detail.
+
+✅ Why This Works: Creates premium product presentation with professional studio quality and synchronized music.
+
+prompt at https://sora.chatgpt.com/
+
+https://sora.chatgpt.com/g/gen_01kfdk4p8yfa9vx2pf9szkyzqz
+
+**EXAMPLE # 03 ** (FOOD SHOT)
+
+A cinematic, hyper-realistic video of a professional kitchen where a baker is baking a chocolate cake.
+Scene starts with close-up shots of mixing flour, eggs, sugar, and cocoa powder in a glass bowl.
+Smooth hand movements, slow motion while pouring batter into a round cake pan.
+The oven door opens with warm light glowing inside, cake slowly rising while baking.
+Final scene shows the finished chocolate cake being decorated with glossy chocolate frosting and fresh strawberries on top.
+Lighting is warm and soft, shallow depth of field, high-quality food cinematography, realistic textures, 4K resolution, smooth camera motion, cozy and satisfying mood.
+
+prompt at https://sora.chatgpt.com/
+
+##  Common Mistakes to Avoid:
+
+**❌ Too Complex for 8 Seconds**
+
+Bad: "Character walks through forest, finds treasure, fights monster, celebrates victory" 
+Good: "Character discovers glowing treasure chest in misty forest, face illuminated with wonder"
+
+**❌ Conflicting Audio Elements**
+Bad: "Quiet intimate dialogue with loud rock music and thunderstorm"
+Good: "Soft whispered dialogue with gentle rain and subtle emotional music"
+
+**❌ Vague Camera Direction**
+Bad: "Nice camera work showing the scene" 
+Good: "Slow push-in from wide shot to medium close-up, camera slightly low angle"
+
+**❌ Generic Visual Style**
+Bad: "Make it look good" 
+Good: "Cinematic color grading with warm highlights, cool shadows, shot on 35mm film"n
+
+## Quality Control Checklist
+
+**Before submitting your prompt, verify:**
+
+ Camera movement/angle is clearly specified
+ 
+ Subject and action fit within 8-second timeframe
+ 
+ Audio elements are layered appropriately
+ 
+ Visual style is consistent and specific
+ 
+ Lighting direction and mood are described
+ 
+ Technical specifications enhance the vision
+ 
+ No conflicting elements or impossible physics
+ 
+ Dialogue is in quotation marks
+ 
+ Sound effects are explicitly described
+
+# **Advanced Prompt Structure Template**:
+
+[CAMERA MOVEMENT/ANGLE]: [Specific camera direction and framing] [SUBJECT]: [Detailed character/object description] [ACTION]: [What happens within 8 seconds] [ENVIRONMENT]: [Setting and atmospheric details] [LIGHTING]: [Type, direction, and mood of lighting] [AUDIO LAYERS]: - Dialogue: "[Exact spoken words]" - SFX: [Specific sound effects] - Ambient: [Environmental sounds] - Music: [Background music style] [VISUAL STYLE]: [Overall aesthetic and color treatment] [TECHNICAL]: [Camera specs and film format if relevant]
+
+
+# **Conclusion**
+
+Effective prompt engineering for Google Veo 3 /Sora is about mixing creative storytelling with clear and precise instructions. Use descriptive and sensory words to help the AI understand how your video should look and feel, such as the lighting, textures, and overall mood. By following these guidelines and learning from examples, you can regularly create high-quality videos that match your creative goals.
+
+Keep in mind that Veo 3/Sora  can produce both visuals and audio together, which is one of its biggest strengths. To get the best results, describe the sounds as clearly as the visuals. The more clear and organized your prompts are, the better the video output will be.
+
+Practice using the provided templates, adjust them to fit your needs, and slowly build your own prompting style. Success comes from balancing creative ideas with clear instructions, while staying within the 8-second video limit.
+
 
