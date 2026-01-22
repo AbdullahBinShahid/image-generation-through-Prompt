@@ -34,7 +34,7 @@ Prompt at https://gemini.google.com/
 
 -Mention photography styles (editorial, cinematic, fine art)
 
-# **What Makes a Prompt Effective**
+# **What Makes a Prompt Very Effective**
 
 A well-structured prompt typically includes:
 
@@ -69,7 +69,7 @@ AI generated:
 
 <img width="832" height="1248" alt="Gemini_Generated_Image_91aure91aure91au" src="https://github.com/user-attachments/assets/ba110ba5-f81a-4cb8-8ae4-6c4912d9150d" />
 
-✅ What Worked Here
+✅ What Worked Here.
 
 Subject grounding: “of the uploaded photo” ensures consistency.
 
